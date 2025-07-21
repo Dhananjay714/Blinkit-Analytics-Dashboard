@@ -28,17 +28,6 @@ This is a real-time data analytics dashboard project inspired by Blinkit (India'
 
 ---
 
-📂 Folder Structure
-
-Blinkit_RealTime_Analytics_API/
-├── backend/               # Flask API generating simulated order data
-│   └── app.py
-├── dashboard/             # Power BI PBIX file with interactive dashboard
-│   └── Blinkit_Dashboard.pbix
-├── README.md              # You're here!
-└── requirements.txt       # Flask + Faker + Pandas
-
----
 📦 Setup Instructions
 
 1. Clone the repo:
