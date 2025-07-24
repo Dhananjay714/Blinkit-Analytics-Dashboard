@@ -2,6 +2,8 @@ Blinkit Real-Time Analytics Dashboard 🚀
 
 This is a real-time data analytics dashboard project inspired by Blinkit (India's instant grocery delivery app). It is designed to provide real-time insights into order volume, revenue, delivery times, top products, and customer behavior using simulated data.
 
+![Dashboard Preview](assets/dashboard_screenshots/ride_sharing_dashboard1.png)
+
 > ⚡ Built for learning data analytics, dashboard design, and Python API integration.
 
 ---
