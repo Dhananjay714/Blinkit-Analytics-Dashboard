@@ -10,13 +10,13 @@ This is a real-time data analytics dashboard project inspired by Blinkit (India'
 
 📊 Features
 
-- 📦 **Live Order Simulation** using a Python API (`Faker` generated data)
-- 📈 **Revenue & Order Trends** over time
-- 🧈 **Top Products Analysis** (donut & bar charts)
-- 📍 **City-wise Order Breakdown** with map visualization
-- 💳 **Payment Method Share** using donut charts
-- ⏱️ **Average Delivery Time Monitoring**
-- 🧠 **Real-Time Filtering** by product, city, and payment method
+- 📦 Live Order Simulation using a Python API (`Faker` generated data)
+- 📈 Revenue & Order Trends over time
+- 🧈 Top Products Analysis(donut & bar charts)
+- 📍 City-wise Order Breakdown with map visualization
+- 💳 Payment Method Share using donut charts
+- ⏱️ Average Delivery Time Monitoring
+- 🧠 Real-Time Filtering by product, city, and payment method
 
 ---
 
@@ -69,7 +69,7 @@ This dashboard simulates a Blinkit-like grocery delivery system and is useful fo
 
 🙋‍♂️ Author
 
-Dhananjay Wadhi**  
+Dhananjay Wadhi
 Final Year Computer Engineering Student  
 📍 G.V. Acharya Institute of Engineering & Technology (Mumbai University)  
 📫 [LinkedIn](https://www.linkedin.com/in/dhananjay-wadhi-058961237/) • [GitHub](https://github.com/Dhananjay714)
