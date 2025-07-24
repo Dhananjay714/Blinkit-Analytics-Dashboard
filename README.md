@@ -71,7 +71,7 @@ This dashboard simulates a Blinkit-like grocery delivery system and is useful fo
 
 Dhananjay Wadhi**  
 Final Year Computer Engineering Student  
-📍 G.V. Acharya Institute of Engineering (Mumbai University)  
+📍 G.V. Acharya Institute of Engineering & Technology (Mumbai University)  
 📫 [LinkedIn](https://www.linkedin.com/in/dhananjay-wadhi-058961237/) • [GitHub](https://github.com/Dhananjay714)
 
 
